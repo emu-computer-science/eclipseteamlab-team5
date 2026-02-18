@@ -6,6 +6,7 @@ public class Driver {
 		System.out.println("Our team is just getting started.");
 		
 		Glad.glad();
+		Glad.happy();
 		Sad.sad();
 		Hungry.hungry();
 		Hungry.secondMethod();

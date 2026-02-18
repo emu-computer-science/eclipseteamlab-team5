@@ -9,5 +9,6 @@ public class Driver {
 		Sad.sad();
 		Hungry.hungry();
 		Hungry.secondMethod();
+		Sad.noLongerSad();
 	}
 }
